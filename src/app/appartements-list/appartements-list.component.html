@@ -1,0 +1,58 @@
+<div class="list-controls row">
+  <view-mode [mode]="viewMode" (change)="onViewModeChanged($event)"></view-mode>
+  <favourite
+    class="mr-auto favourite"
+    [isFavourite]="showFavourites"
+    (change)="showFavourite()"
+  ></favourite>
+  <search
+    class="search"
+    [query]="searchQuery"
+    (onSearch)="onSearchChange($event)"
+  ></search>
+  <items-per-page (chache)="onItemsPerPageChange($event)"></items-per-page>
+</div>
+
+<div [ngSwitch]="viewMode">
+  <div *ngSwitchCase="'grid'" [@switch]="'fadeIn'">
+    <div class="row">
+      <div
+        *ngFor="
+          let appartement of getList()
+            | paginate
+              : {
+                  itemsPerPage: pagination.itemsPerPage,
+                  currentPage: pagination.currentPage
+                }
+        "
+        class="col-6 col-sm-6 col-md-4 col-lg-3"
+      >
+        <list-item
+          (favouriteChange)="makeFavourite($event)"
+          [item]="appartement"
+          [type]="viewMode"
+        ></list-item>
+      </div>
+    </div>
+  </div>
+  <div *ngSwitchCase="'table'" [@switch]="'fadeIn'">
+    <div class="row">
+      <div *ngFor="let appartement of getList()" class="col-12">
+        <list-item
+          (favouriteChange)="makeFavourite($event)"
+          [item]="appartement"
+          [type]="viewMode"
+        ></list-item>
+      </div>
+    </div>
+  </div>
+</div>
+
+<pagination-controls
+  class="pagination"
+  (pageChange)="pageChanged($event)"
+  maxSize="9"
+  directionLinks="true"
+  responsive="true"
+>
+</pagination-controls>

@@ -1,0 +1,14 @@
+<div class="btn-group view-mode">
+  <mdb-icon
+    fas
+    icon="th-large"
+    [class.active]="mode === 'grid'"
+    (click)="change.emit('grid')"
+  ></mdb-icon>
+  <mdb-icon
+    fas
+    icon="list"
+    [class.active]="mode === 'table'"
+    (click)="change.emit('table')"
+  ></mdb-icon>
+</div>

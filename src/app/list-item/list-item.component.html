@@ -1,0 +1,29 @@
+<div class="single-news mb-4 {{ type }}">
+  <div class="view overlay rounded mb-4">
+    <img
+      class="img-fluid"
+      src="https://mdbootstrap.com/img/Photos/Others/images/82.jpg"
+      alt="Sample image"
+    />
+  </div>
+
+  <div class="details">
+    <div>
+      <h3 class="title mb-3">
+        <a [routerLink]="['/appartements', item.id]">{{ item.street }}</a>
+      </h3>
+      <ul>
+        <li>Index: {{ item.index }}</li>
+        <li>House: {{ item.house }}</li>
+        <li>Rooms: {{ item.rooms }}</li>
+      </ul>
+    </div>
+    <h6 class="price font-weight-bold">
+      € {{ item.price }}
+      <favourite
+        [isFavourite]="item.isFavourite"
+        (change)="onFavouriteChanged(item)"
+      ></favourite>
+    </h6>
+  </div>
+</div>

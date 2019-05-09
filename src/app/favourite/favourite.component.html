@@ -1,0 +1,7 @@
+<div *ngIf="isSelected; else far">
+  <mdb-icon fas icon="heart" (click)="onClick()"></mdb-icon>
+</div>
+<ng-template #far>
+  <mdb-icon far icon="heart" (click)="onClick()"></mdb-icon>
+  <ng-template></ng-template
+></ng-template>

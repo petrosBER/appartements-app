@@ -1,0 +1,7 @@
+@import "../../assets/scss/breakpoints";
+
+@media ($small) {
+  button {
+    margin: 0;
+  }
+}

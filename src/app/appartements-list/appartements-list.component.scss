@@ -1,0 +1,27 @@
+@import "../../assets/scss/breakpoints";
+
+.list-controls {
+  padding: 0 15px 50px;
+  .favourite {
+    font-size: 1.25rem;
+    margin-left: 20px;
+    @media ($small) {
+      margin-left: 0;
+    }
+  }
+  .search {
+    @media ($small) {
+      order: 1;
+      width: 100%;
+    }
+  }
+}
+.pagination /deep/ pagination-template {
+  width: 100%;
+}
+.pagination /deep/ .ngx-pagination {
+  text-align: center;
+  margin: 20px 0 0;
+  padding: 0;
+  width: 100%;
+}

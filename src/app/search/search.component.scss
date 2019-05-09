@@ -1,0 +1,15 @@
+@import "../../assets/scss/breakpoints";
+
+.md-form {
+  @media ($small) {
+    margin-top: 15px !important;
+    width: 100%;
+  }
+  .form-control {
+    padding: 3px 0;
+  }
+  input[type="text"]:focus:not([readonly]) {
+    box-shadow: 0 1px 0 0 #313131;
+    border-bottom: 1px solid #313131;
+  }
+}

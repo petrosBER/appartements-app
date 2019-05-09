@@ -1,0 +1,29 @@
+<div class="row appartement">
+  <div class="col-12 col-sm-12 col-md-5">
+    <img
+      class="img-fluid"
+      src="https://mdbootstrap.com/img/Photos/Others/images/82.jpg"
+      alt="Sample image"
+    />
+  </div>
+  <div class="col-12 col-sm-12 col-md-7">
+    <h1>{{ appartement.street }}</h1>
+    <h2>€{{ appartement.price }}</h2>
+    <ul class="mt-4 horizontal">
+      <li>Index: {{ appartement.index }}</li>
+      <li>House: {{ appartement.house }}</li>
+      <li>Rooms: {{ appartement.rooms }}</li>
+    </ul>
+    <button
+      type="button"
+      mdbBtn
+      class="mt-4"
+      size="sm"
+      color="dark"
+      mdbWavesEffect
+      (click)="onClick()"
+    >
+      Back to List
+    </button>
+  </div>
+</div>
