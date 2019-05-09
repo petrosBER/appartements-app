@@ -16,6 +16,8 @@ import { ListItemComponent } from "./list-item/list-item.component";
 import { ViewModeComponent } from "./view-mode/view-mode.component";
 import { SearchComponent } from "./search/search.component";
 import { ItemsPerPageComponent } from "./items-per-page/items-per-page.component";
+import { DropdowComponent } from './dropdow/dropdow.component';
+import { SortByComponent } from './sort-by/sort-by.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +30,9 @@ import { ItemsPerPageComponent } from "./items-per-page/items-per-page.component
     ListItemComponent,
     ViewModeComponent,
     SearchComponent,
-    ItemsPerPageComponent
+    ItemsPerPageComponent,
+    DropdowComponent,
+    SortByComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,22 @@
+<div class="btn-group" mdbDropdown>
+    <button
+      mdbDropdownToggle
+      mdbBtn
+      color="dark"
+      size="sm"
+      class="dropdown-toggle waves-light"
+      type="button"
+      mdbWavesEffect
+    >
+      <span class="label">{{label}}&nbsp;</span>
+      <span>({{activeOption}})</span>
+    </button>
+    <div class="dropdown-menu">
+      <a
+        *ngFor="let option of options"
+        class="dropdown-item"
+        (click)="onSelect(option)"
+        >{{ option }}</a
+      >
+    </div>
+  </div>

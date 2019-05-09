@@ -1,13 +1,5 @@
 @import "../../assets/scss/breakpoints";
 
-button {
-  span {
-    display: inline-block;
-    &.label {
-      padding-right: 3px;
-    }
-  }
-}
 @media ($small) {
   button {
     margin: 0;

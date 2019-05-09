@@ -5,12 +5,15 @@
     [isFavourite]="showFavourites"
     (change)="showFavourite()"
   ></favourite>
+  <div class="sort">
+    <sort-by (chache)="onSortChange($event)"></sort-by>
+    <items-per-page (chache)="onItemsPerPageChange($event)"></items-per-page>
+  </div>
   <search
     class="search"
     [query]="searchQuery"
     (onSearch)="onSearchChange($event)"
   ></search>
-  <items-per-page (chache)="onItemsPerPageChange($event)"></items-per-page>
 </div>
 
 <div [ngSwitch]="viewMode">
@@ -50,7 +53,7 @@
 
 <pagination-controls
   class="pagination"
-  (pageChange)="pageChanged($event)"
+  (pageChange)="onPaginationChanged($event)"
   maxSize="9"
   directionLinks="true"
   responsive="true"

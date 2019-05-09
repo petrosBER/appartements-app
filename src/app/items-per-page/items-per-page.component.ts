@@ -7,11 +7,20 @@ import { Component, OnInit, Output, EventEmitter } from "@angular/core";
 })
 export class ItemsPerPageComponent implements OnInit {
   @Output("chache") select = new EventEmitter();
-  optionsSelect: any[];
+  selectOptions: any[];
+  label: string;
+  activeOption: string;
 
   constructor() {}
 
   ngOnInit() {
-    this.optionsSelect = ["12", "20", "28", "36"];
+    this.selectOptions = ["12", "20", "28", "36"];
+    this.label = "Items per page:";
+    this.activeOption = this.selectOptions[0];
+  }
+
+  onClick(option) {
+    this.select.emit(option)
+    this.activeOption = option;
   }
 }

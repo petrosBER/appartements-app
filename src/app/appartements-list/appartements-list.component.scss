@@ -9,6 +9,12 @@
       margin-left: 0;
     }
   }
+  .sort > * {
+    margin-right: 15px;
+    @media ($small) {
+      margin-right: 5px;
+    }
+  }
   .search {
     @media ($small) {
       order: 1;

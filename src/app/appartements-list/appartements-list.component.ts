@@ -72,8 +72,39 @@ export class AppartementsListComponent {
     this.searchQuery = "";
   }
 
-  pageChanged(page) {
+  onPaginationChanged(page) {
     this.pagination.currentPage = page;
+  }
+
+  onSortChange(sort) {
+    this.appartements = this.appartements.sort((A, B) => {
+      let itemA;
+      let itemB;
+
+      switch (sort.option) {
+        case "street":
+          itemA = A[sort.option].toLowerCase();
+          itemB = B[sort.option].toLowerCase();
+          return this.sort(itemB, itemA);
+          break;
+        case "price":
+          itemA = A[sort.option];
+          itemB = B[sort.option];
+          return sort.order === "asc"
+            ? this.sort(itemA, itemB)
+            : this.sort(itemB, itemA);
+          break;
+        default:
+          return this.sort(itemA, itemB);
+          break;
+      }
+    });
+  }
+
+  private sort(A, B) {
+    if (A < B) return 1;
+    if (B < A) return -1;
+    return 0;
   }
 
   onSearchChange(query: string) {
