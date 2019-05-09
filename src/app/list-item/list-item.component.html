@@ -1,10 +1,12 @@
 <div class="single-news mb-4 {{ type }}">
   <div class="view overlay rounded mb-4">
-    <img
-      class="img-fluid"
-      src="https://mdbootstrap.com/img/Photos/Others/images/82.jpg"
-      alt="Sample image"
-    />
+    <a [routerLink]="['/appartements', item.id]">
+      <img
+        class="img-fluid"
+        src="https://mdbootstrap.com/img/Photos/Others/images/82.jpg"
+        alt="Sample image"
+      />
+    </a>
   </div>
 
   <div class="details">
