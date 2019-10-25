@@ -1,0 +1,1594 @@
+[
+  {
+    "street": "Albrechtstraße",
+    "index": "10117",
+    "house": 23,
+    "rooms": 1,
+    "price": 1800,
+    "id": 1
+  },
+  {
+    "street": "Alexanderplatz",
+    "index": "10178",
+    "house": 46,
+    "rooms": 2,
+    "price": 1600,
+    "id": 2
+  },
+  {
+    "street": "Alexanderstraße",
+    "index": "10178",
+    "house": 13,
+    "rooms": 1,
+    "price": 700,
+    "id": 3
+  },
+  {
+    "street": "Almstadtstraße",
+    "index": "10119",
+    "house": 11,
+    "rooms": 5,
+    "price": 2300,
+    "id": 4
+  },
+  {
+    "street": "Alte Leipziger Straße",
+    "index": "10117",
+    "house": 38,
+    "rooms": 1,
+    "price": 4100,
+    "id": 5
+  },
+  {
+    "street": "Alte Schönhauser Straße",
+    "index": "10119",
+    "house": 47,
+    "rooms": 6,
+    "price": 700,
+    "id": 6
+  },
+  {
+    "street": "Am Festungsgraben",
+    "index": "10117",
+    "house": 13,
+    "rooms": 3,
+    "price": 600,
+    "id": 7
+  },
+  {
+    "street": "Am Köllnischen Park",
+    "index": "10179",
+    "house": 34,
+    "rooms": 4,
+    "price": 1300,
+    "id": 8
+  },
+  {
+    "street": "Am Krögel",
+    "index": "10179",
+    "house": 12,
+    "rooms": 4,
+    "price": 3500,
+    "id": 9
+  },
+  {
+    "street": "Am Kupfergraben",
+    "index": "10117",
+    "house": 15,
+    "rooms": 2,
+    "price": 4000,
+    "id": 10
+  },
+  {
+    "street": "Am Lustgarten",
+    "index": "10178",
+    "house": 36,
+    "rooms": 5,
+    "price": 1200,
+    "id": 11
+  },
+  {
+    "street": "Am Nußbaum",
+    "index": "10178",
+    "house": 50,
+    "rooms": 1,
+    "price": 4000,
+    "id": 12
+  },
+  {
+    "street": "Am Pankepark",
+    "index": "10115",
+    "house": 31,
+    "rooms": 5,
+    "price": 4100,
+    "id": 13
+  },
+  {
+    "street": "Am Weidendamm",
+    "index": "10117",
+    "house": 14,
+    "rooms": 4,
+    "price": 1700,
+    "id": 14
+  },
+  {
+    "street": "Am Zirkus",
+    "index": "10117",
+    "house": 44,
+    "rooms": 3,
+    "price": 3600,
+    "id": 15
+  },
+  {
+    "street": "Am Zwirngraben",
+    "index": "10178",
+    "house": 27,
+    "rooms": 2,
+    "price": 4400,
+    "id": 16
+  },
+  {
+    "street": "An der Kolonnade",
+    "index": "10117",
+    "house": 45,
+    "rooms": 6,
+    "price": 3000,
+    "id": 17
+  },
+  {
+    "street": "An der Michaelbrücke",
+    "index": "10179",
+    "house": 47,
+    "rooms": 6,
+    "price": 200,
+    "id": 18
+  },
+  {
+    "street": "An der Spandauer Brücke",
+    "index": "10178",
+    "house": 29,
+    "rooms": 6,
+    "price": 3600,
+    "id": 19
+  },
+  {
+    "street": "Anklamer Straße",
+    "index": "10115",
+    "house": 26,
+    "rooms": 5,
+    "price": 4100,
+    "id": 20
+  },
+  {
+    "street": "Anna-Louisa-Karsch-Str.",
+    "index": "10178",
+    "house": 13,
+    "rooms": 5,
+    "price": 1400,
+    "id": 21
+  },
+  {
+    "street": "Arkonaplatz",
+    "index": "10115",
+    "house": 3,
+    "rooms": 1,
+    "price": 1400,
+    "id": 22
+  },
+  {
+    "street": "Bauhofstraße",
+    "index": "10117",
+    "house": 45,
+    "rooms": 5,
+    "price": 2900,
+    "id": 23
+  },
+  {
+    "street": "Bebelplatz",
+    "index": "10117",
+    "house": 14,
+    "rooms": 6,
+    "price": 1200,
+    "id": 24
+  },
+  {
+    "street": "Behrenstraße",
+    "index": "10117",
+    "house": 24,
+    "rooms": 1,
+    "price": 700,
+    "id": 25
+  },
+  {
+    "street": "Berolinastraße",
+    "index": "10178",
+    "house": 7,
+    "rooms": 3,
+    "price": 100,
+    "id": 26
+  },
+  {
+    "street": "Bertolt-Brecht-Platz",
+    "index": "10117",
+    "house": 35,
+    "rooms": 6,
+    "price": 4800,
+    "id": 27
+  },
+  {
+    "street": "Beuthstraße",
+    "index": "10117",
+    "house": 17,
+    "rooms": 1,
+    "price": 1200,
+    "id": 28
+  },
+  {
+    "street": "Bodestraße",
+    "index": "10178",
+    "house": 23,
+    "rooms": 6,
+    "price": 2100,
+    "id": 29
+  },
+  {
+    "street": "Bona-Peiser-Weg",
+    "index": "10179",
+    "house": 12,
+    "rooms": 6,
+    "price": 1300,
+    "id": 30
+  },
+  {
+    "street": "Borsigstraße",
+    "index": "10115",
+    "house": 21,
+    "rooms": 1,
+    "price": 3700,
+    "id": 31
+  },
+  {
+    "street": "Boyenstraße",
+    "index": "10115",
+    "house": 31,
+    "rooms": 2,
+    "price": 3800,
+    "id": 32
+  },
+  {
+    "street": "Brückenstraße",
+    "index": "10179",
+    "house": 25,
+    "rooms": 3,
+    "price": 1900,
+    "id": 33
+  },
+  {
+    "street": "Burgstraße",
+    "index": "10178",
+    "house": 48,
+    "rooms": 5,
+    "price": 500,
+    "id": 34
+  },
+  {
+    "street": "Caroline-von-Humboldt-Weg",
+    "index": "10117",
+    "house": 3,
+    "rooms": 4,
+    "price": 1400,
+    "id": 35
+  },
+  {
+    "street": "Chariteplatz",
+    "index": "10117",
+    "house": 49,
+    "rooms": 6,
+    "price": 3900,
+    "id": 36
+  },
+  {
+    "street": "Charitestraße",
+    "index": "10117",
+    "house": 18,
+    "rooms": 5,
+    "price": 4500,
+    "id": 37
+  },
+  {
+    "street": "Choriner Straße",
+    "index": "10119",
+    "house": 40,
+    "rooms": 5,
+    "price": 3600,
+    "id": 38
+  },
+  {
+    "street": "Claire-Waldoff-Str.",
+    "index": "10117",
+    "house": 3,
+    "rooms": 2,
+    "price": 4000,
+    "id": 39
+  },
+  {
+    "street": "Cora-Berliner-Str.",
+    "index": "10117",
+    "house": 50,
+    "rooms": 1,
+    "price": 3900,
+    "id": 40
+  },
+  {
+    "street": "Dircksenstraße",
+    "index": "10178",
+    "house": 6,
+    "rooms": 4,
+    "price": 3300,
+    "id": 41
+  },
+  {
+    "street": "Ebertstraße",
+    "index": "10117",
+    "house": 15,
+    "rooms": 4,
+    "price": 2900,
+    "id": 42
+  },
+  {
+    "street": "Eichendorffstraße",
+    "index": "10115",
+    "house": 50,
+    "rooms": 5,
+    "price": 1800,
+    "id": 43
+  },
+  {
+    "street": "Elisabethkirchstraße",
+    "index": "10115",
+    "house": 29,
+    "rooms": 2,
+    "price": 4000,
+    "id": 44
+  },
+  {
+    "street": "Elisabeth-Mara-Str.",
+    "index": "10117",
+    "house": 35,
+    "rooms": 3,
+    "price": 2900,
+    "id": 45
+  },
+  {
+    "street": "Engeldamm",
+    "index": "10179",
+    "house": 10,
+    "rooms": 6,
+    "price": 3300,
+    "id": 46
+  },
+  {
+    "street": "Fehrbelliner Straße",
+    "index": "10119",
+    "house": 16,
+    "rooms": 4,
+    "price": 300,
+    "id": 47
+  },
+  {
+    "street": "Fischerinsel",
+    "index": "10179",
+    "house": 37,
+    "rooms": 6,
+    "price": 1400,
+    "id": 48
+  },
+  {
+    "street": "Französische Straße",
+    "index": "10117",
+    "house": 7,
+    "rooms": 2,
+    "price": 2700,
+    "id": 49
+  },
+  {
+    "street": "Friedrichsgracht",
+    "index": "10178",
+    "house": 19,
+    "rooms": 2,
+    "price": 3500,
+    "id": 50
+  },
+  {
+    "street": "Fürstenberger Straße",
+    "index": "10435",
+    "house": 43,
+    "rooms": 5,
+    "price": 300,
+    "id": 51
+  },
+  {
+    "street": "Garnisonkirchplatz",
+    "index": "10178",
+    "house": 4,
+    "rooms": 1,
+    "price": 1500,
+    "id": 52
+  },
+  {
+    "street": "Gertraudenstraße",
+    "index": "10178",
+    "house": 9,
+    "rooms": 4,
+    "price": 4500,
+    "id": 53
+  },
+  {
+    "street": "Gertrud-Kolmar-Str.",
+    "index": "10117",
+    "house": 26,
+    "rooms": 1,
+    "price": 1600,
+    "id": 54
+  },
+  {
+    "street": "Gipsstraße",
+    "index": "10119",
+    "house": 39,
+    "rooms": 1,
+    "price": 3500,
+    "id": 55
+  },
+  {
+    "street": "Glinkastraße",
+    "index": "10117",
+    "house": 45,
+    "rooms": 3,
+    "price": 4400,
+    "id": 56
+  },
+  {
+    "street": "Gormannstraße",
+    "index": "10119",
+    "house": 35,
+    "rooms": 5,
+    "price": 600,
+    "id": 57
+  },
+  {
+    "street": "Granseer Straße",
+    "index": "10435",
+    "house": 32,
+    "rooms": 5,
+    "price": 800,
+    "id": 58
+  },
+  {
+    "street": "Griebenowstraße",
+    "index": "10435",
+    "house": 26,
+    "rooms": 2,
+    "price": 1100,
+    "id": 59
+  },
+  {
+    "street": "Große Hamburger Straße",
+    "index": "10115",
+    "house": 18,
+    "rooms": 3,
+    "price": 4000,
+    "id": 60
+  },
+  {
+    "street": "Große Präsidentenstraße",
+    "index": "10178",
+    "house": 7,
+    "rooms": 4,
+    "price": 4500,
+    "id": 61
+  },
+  {
+    "street": "Grunerstraße",
+    "index": "10178",
+    "house": 32,
+    "rooms": 1,
+    "price": 1000,
+    "id": 62
+  },
+  {
+    "street": "Habersaathstraße",
+    "index": "10115",
+    "house": 44,
+    "rooms": 1,
+    "price": 1000,
+    "id": 63
+  },
+  {
+    "street": "Hackescher Markt",
+    "index": "10178",
+    "house": 25,
+    "rooms": 3,
+    "price": 1400,
+    "id": 64
+  },
+  {
+    "street": "Hannah-Arendt-Str.",
+    "index": "10117",
+    "house": 4,
+    "rooms": 2,
+    "price": 100,
+    "id": 65
+  },
+  {
+    "street": "Hannoversche Straße",
+    "index": "10115",
+    "house": 14,
+    "rooms": 5,
+    "price": 4400,
+    "id": 66
+  },
+  {
+    "street": "Hausvogteiplatz",
+    "index": "10117",
+    "house": 10,
+    "rooms": 5,
+    "price": 1700,
+    "id": 67
+  },
+  {
+    "street": "Hedwigskirchgasse",
+    "index": "10117",
+    "house": 29,
+    "rooms": 6,
+    "price": 2700,
+    "id": 68
+  },
+  {
+    "street": "Hegelplatz",
+    "index": "10117",
+    "house": 17,
+    "rooms": 4,
+    "price": 2300,
+    "id": 69
+  },
+  {
+    "street": "Heiligegeistkirchplatz",
+    "index": "10178",
+    "house": 33,
+    "rooms": 6,
+    "price": 1700,
+    "id": 70
+  },
+  {
+    "street": "Heinrich-Heine-Platz",
+    "index": "10179",
+    "house": 23,
+    "rooms": 4,
+    "price": 4700,
+    "id": 71
+  },
+  {
+    "street": "Heinrich-Heine-Str.",
+    "index": "10179",
+    "house": 43,
+    "rooms": 3,
+    "price": 100,
+    "id": 72
+  },
+  {
+    "street": "Henriette-Herz-Platz",
+    "index": "10178",
+    "house": 46,
+    "rooms": 2,
+    "price": 4400,
+    "id": 73
+  },
+  {
+    "street": "Hessische Straße",
+    "index": "10115",
+    "house": 30,
+    "rooms": 2,
+    "price": 0,
+    "id": 74
+  },
+  {
+    "street": "Hinter der Katholischen Kirche",
+    "index": "10117",
+    "house": 21,
+    "rooms": 2,
+    "price": 2300,
+    "id": 75
+  },
+  {
+    "street": "Hirtenstraße",
+    "index": "10178",
+    "house": 9,
+    "rooms": 5,
+    "price": 1100,
+    "id": 76
+  },
+  {
+    "street": "In den Ministergärten",
+    "index": "10117",
+    "house": 23,
+    "rooms": 4,
+    "price": 1600,
+    "id": 77
+  },
+  {
+    "street": "Invalidenstraße",
+    "index": "10115",
+    "house": 18,
+    "rooms": 1,
+    "price": 1100,
+    "id": 78
+  },
+  {
+    "street": "Jacobystraße",
+    "index": "10179",
+    "house": 45,
+    "rooms": 4,
+    "price": 1000,
+    "id": 79
+  },
+  {
+    "street": "Jerusalemer Straße",
+    "index": "10117",
+    "house": 30,
+    "rooms": 4,
+    "price": 2800,
+    "id": 80
+  },
+  {
+    "street": "Johannisstraße",
+    "index": "10117",
+    "house": 31,
+    "rooms": 5,
+    "price": 100,
+    "id": 81
+  },
+  {
+    "street": "Jüdenstraße",
+    "index": "10178",
+    "house": 43,
+    "rooms": 6,
+    "price": 3400,
+    "id": 82
+  },
+  {
+    "street": "Karl-Liebknecht-Str.",
+    "index": "10178",
+    "house": 4,
+    "rooms": 6,
+    "price": 900,
+    "id": 83
+  },
+  {
+    "street": "Karlplatz",
+    "index": "10117",
+    "house": 23,
+    "rooms": 3,
+    "price": 3500,
+    "id": 84
+  },
+  {
+    "street": "Keibelstraße",
+    "index": "10178",
+    "house": 36,
+    "rooms": 4,
+    "price": 4800,
+    "id": 85
+  },
+  {
+    "street": "Kleine Alexanderstraße",
+    "index": "10178",
+    "house": 49,
+    "rooms": 4,
+    "price": 1900,
+    "id": 86
+  },
+  {
+    "street": "Kleine Auguststraße",
+    "index": "10119",
+    "house": 9,
+    "rooms": 6,
+    "price": 3900,
+    "id": 87
+  },
+  {
+    "street": "Kleine Gertraudenstraße",
+    "index": "10178",
+    "house": 35,
+    "rooms": 4,
+    "price": 4600,
+    "id": 88
+  },
+  {
+    "street": "Kleine Hamburger Straße",
+    "index": "10115",
+    "house": 23,
+    "rooms": 2,
+    "price": 700,
+    "id": 89
+  },
+  {
+    "street": "Kleine Jägerstraße",
+    "index": "10117",
+    "house": 19,
+    "rooms": 2,
+    "price": 4000,
+    "id": 90
+  },
+  {
+    "street": "Kleine Kurstraße",
+    "index": "10117",
+    "house": 31,
+    "rooms": 4,
+    "price": 4100,
+    "id": 91
+  },
+  {
+    "street": "Kleine Präsidentenstraße",
+    "index": "10178",
+    "house": 7,
+    "rooms": 6,
+    "price": 200,
+    "id": 92
+  },
+  {
+    "street": "Kleine Rosenthaler Straße",
+    "index": "10119",
+    "house": 40,
+    "rooms": 5,
+    "price": 900,
+    "id": 93
+  },
+  {
+    "street": "Klosterstraße",
+    "index": "10179",
+    "house": 31,
+    "rooms": 4,
+    "price": 200,
+    "id": 94
+  },
+  {
+    "street": "Klosterstrasse",
+    "index": "10179",
+    "house": 48,
+    "rooms": 5,
+    "price": 2300,
+    "id": 95
+  },
+  {
+    "street": "Koppenplatz",
+    "index": "10115",
+    "house": 24,
+    "rooms": 5,
+    "price": 2300,
+    "id": 96
+  },
+  {
+    "street": "Krausenstraße",
+    "index": "10117",
+    "house": 33,
+    "rooms": 1,
+    "price": 4400,
+    "id": 97
+  },
+  {
+    "street": "Krausnickstraße",
+    "index": "10115",
+    "house": 9,
+    "rooms": 3,
+    "price": 800,
+    "id": 98
+  },
+  {
+    "street": "Kremmener Straße",
+    "index": "10435",
+    "house": 24,
+    "rooms": 3,
+    "price": 1400,
+    "id": 99
+  },
+  {
+    "street": "Kreuzstraße",
+    "index": "10117",
+    "house": 10,
+    "rooms": 6,
+    "price": 4400,
+    "id": 100
+  },
+  {
+    "street": "Kronenstraße",
+    "index": "10117",
+    "house": 17,
+    "rooms": 3,
+    "price": 4100,
+    "id": 101
+  },
+  {
+    "street": "Kurstraße",
+    "index": "10117",
+    "house": 12,
+    "rooms": 2,
+    "price": 700,
+    "id": 102
+  },
+  {
+    "street": "Kurstrasse",
+    "index": "10117",
+    "house": 44,
+    "rooms": 2,
+    "price": 1300,
+    "id": 103
+  },
+  {
+    "street": "Leipziger Platz",
+    "index": "10117",
+    "house": 30,
+    "rooms": 3,
+    "price": 4200,
+    "id": 104
+  },
+  {
+    "street": "Leipziger Straße",
+    "index": "10117",
+    "house": 50,
+    "rooms": 2,
+    "price": 500,
+    "id": 105
+  },
+  {
+    "street": "Lennestraße",
+    "index": "10117",
+    "house": 50,
+    "rooms": 4,
+    "price": 1300,
+    "id": 106
+  },
+  {
+    "street": "Linienstraße",
+    "index": "10115",
+    "house": 43,
+    "rooms": 1,
+    "price": 100,
+    "id": 107
+  },
+  {
+    "street": "Linkstraße",
+    "index": "10117",
+    "house": 1,
+    "rooms": 2,
+    "price": 500,
+    "id": 108
+  },
+  {
+    "street": "Littenstraße",
+    "index": "10179",
+    "house": 35,
+    "rooms": 3,
+    "price": 1700,
+    "id": 109
+  },
+  {
+    "street": "Lustgarten",
+    "index": "10178",
+    "house": 48,
+    "rooms": 5,
+    "price": 900,
+    "id": 110
+  },
+  {
+    "street": "Magazinstraße",
+    "index": "10179",
+    "house": 3,
+    "rooms": 6,
+    "price": 400,
+    "id": 111
+  },
+  {
+    "street": "Märkisches Ufer",
+    "index": "10179",
+    "house": 34,
+    "rooms": 3,
+    "price": 3300,
+    "id": 112
+  },
+  {
+    "street": "Mauerstraße",
+    "index": "10117",
+    "house": 1,
+    "rooms": 2,
+    "price": 3900,
+    "id": 113
+  },
+  {
+    "street": "Max-Beer-Str.",
+    "index": "10119",
+    "house": 18,
+    "rooms": 6,
+    "price": 2800,
+    "id": 114
+  },
+  {
+    "street": "Melchiorstraße",
+    "index": "10179",
+    "house": 35,
+    "rooms": 1,
+    "price": 1300,
+    "id": 115
+  },
+  {
+    "street": "Memhardstraße",
+    "index": "10178",
+    "house": 24,
+    "rooms": 1,
+    "price": 4600,
+    "id": 116
+  },
+  {
+    "street": "Michaelkirchplatz",
+    "index": "10179",
+    "house": 39,
+    "rooms": 5,
+    "price": 1000,
+    "id": 117
+  },
+  {
+    "street": "Michaelkirchstraße",
+    "index": "10179",
+    "house": 23,
+    "rooms": 6,
+    "price": 3000,
+    "id": 118
+  },
+  {
+    "street": "Mohrenstraße",
+    "index": "10117",
+    "house": 36,
+    "rooms": 5,
+    "price": 1300,
+    "id": 119
+  },
+  {
+    "street": "Molkenmarkt",
+    "index": "10179",
+    "house": 32,
+    "rooms": 6,
+    "price": 200,
+    "id": 120
+  },
+  {
+    "street": "Monbijouplatz",
+    "index": "10178",
+    "house": 28,
+    "rooms": 1,
+    "price": 2300,
+    "id": 121
+  },
+  {
+    "street": "Monbijoustraße",
+    "index": "10117",
+    "house": 6,
+    "rooms": 4,
+    "price": 400,
+    "id": 122
+  },
+  {
+    "street": "Mühlendamm",
+    "index": "10178",
+    "house": 26,
+    "rooms": 1,
+    "price": 4500,
+    "id": 123
+  },
+  {
+    "street": "Mulackstraße",
+    "index": "10119",
+    "house": 50,
+    "rooms": 4,
+    "price": 2800,
+    "id": 124
+  },
+  {
+    "street": "Münzstraße",
+    "index": "10178",
+    "house": 45,
+    "rooms": 4,
+    "price": 2700,
+    "id": 125
+  },
+  {
+    "street": "Neue Grünstraße",
+    "index": "10179",
+    "house": 26,
+    "rooms": 4,
+    "price": 900,
+    "id": 126
+  },
+  {
+    "street": "Neue Jakobstraße",
+    "index": "10179",
+    "house": 23,
+    "rooms": 2,
+    "price": 1300,
+    "id": 127
+  },
+  {
+    "street": "Neue Jüdenstraße",
+    "index": "10179",
+    "house": 22,
+    "rooms": 4,
+    "price": 2000,
+    "id": 128
+  },
+  {
+    "street": "Neue Promenade",
+    "index": "10178",
+    "house": 8,
+    "rooms": 2,
+    "price": 800,
+    "id": 129
+  },
+  {
+    "street": "Neue Roßstraße",
+    "index": "10179",
+    "house": 45,
+    "rooms": 2,
+    "price": 2500,
+    "id": 130
+  },
+  {
+    "street": "Neue Schönhauser Straße",
+    "index": "10178",
+    "house": 10,
+    "rooms": 5,
+    "price": 3800,
+    "id": 131
+  },
+  {
+    "street": "Neumannsgasse",
+    "index": "10178",
+    "house": 16,
+    "rooms": 1,
+    "price": 0,
+    "id": 132
+  },
+  {
+    "street": "Neustädtische Kirchstraße",
+    "index": "10117",
+    "house": 2,
+    "rooms": 2,
+    "price": 1600,
+    "id": 133
+  },
+  {
+    "street": "Niederwallstraße",
+    "index": "10117",
+    "house": 20,
+    "rooms": 2,
+    "price": 700,
+    "id": 134
+  },
+  {
+    "street": "Nikolaikirchplatz",
+    "index": "10178",
+    "house": 17,
+    "rooms": 6,
+    "price": 100,
+    "id": 135
+  },
+  {
+    "street": "Novalisstraße",
+    "index": "10115",
+    "house": 39,
+    "rooms": 2,
+    "price": 3600,
+    "id": 136
+  },
+  {
+    "street": "Oberwallstraße",
+    "index": "10117",
+    "house": 4,
+    "rooms": 5,
+    "price": 3600,
+    "id": 137
+  },
+  {
+    "street": "Oberwasserstraße",
+    "index": "10117",
+    "house": 44,
+    "rooms": 3,
+    "price": 4600,
+    "id": 138
+  },
+  {
+    "street": "Ohmstraße",
+    "index": "10179",
+    "house": 5,
+    "rooms": 3,
+    "price": 2600,
+    "id": 139
+  },
+  {
+    "street": "Panoramastraße",
+    "index": "10178",
+    "house": 26,
+    "rooms": 5,
+    "price": 400,
+    "id": 140
+  },
+  {
+    "street": "Pariser Platz",
+    "index": "10117",
+    "house": 47,
+    "rooms": 2,
+    "price": 300,
+    "id": 141
+  },
+  {
+    "street": "Paula-Thiede-Ufer",
+    "index": "10179",
+    "house": 49,
+    "rooms": 6,
+    "price": 300,
+    "id": 142
+  },
+  {
+    "street": "Pflugstraße",
+    "index": "10115",
+    "house": 44,
+    "rooms": 6,
+    "price": 0,
+    "id": 143
+  },
+  {
+    "street": "Philippstraße",
+    "index": "10115",
+    "house": 49,
+    "rooms": 2,
+    "price": 100,
+    "id": 144
+  },
+  {
+    "street": "Planckstraße",
+    "index": "10117",
+    "house": 36,
+    "rooms": 3,
+    "price": 2000,
+    "id": 145
+  },
+  {
+    "street": "Platz vor dem Neuen Tor",
+    "index": "10115",
+    "house": 49,
+    "rooms": 4,
+    "price": 2000,
+    "id": 146
+  },
+  {
+    "street": "Propststraße",
+    "index": "10178",
+    "house": 46,
+    "rooms": 5,
+    "price": 2400,
+    "id": 147
+  },
+  {
+    "street": "Reichstagufer",
+    "index": "10117",
+    "house": 25,
+    "rooms": 6,
+    "price": 2400,
+    "id": 148
+  },
+  {
+    "street": "Reinhardtstraße",
+    "index": "10117",
+    "house": 20,
+    "rooms": 3,
+    "price": 3500,
+    "id": 149
+  },
+  {
+    "street": "Rheinsberger Straße",
+    "index": "10115",
+    "house": 19,
+    "rooms": 6,
+    "price": 0,
+    "id": 150
+  },
+  {
+    "street": "Robert-Koch-Platz",
+    "index": "10115",
+    "house": 4,
+    "rooms": 6,
+    "price": 3500,
+    "id": 151
+  },
+  {
+    "street": "Rochstraße",
+    "index": "10178",
+    "house": 22,
+    "rooms": 3,
+    "price": 2000,
+    "id": 152
+  },
+  {
+    "street": "Rolandufer",
+    "index": "10179",
+    "house": 24,
+    "rooms": 6,
+    "price": 4400,
+    "id": 153
+  },
+  {
+    "street": "Rosa-Luxemburg-Str.",
+    "index": "10119",
+    "house": 26,
+    "rooms": 3,
+    "price": 4800,
+    "id": 154
+  },
+  {
+    "street": "Rosenthaler Platz",
+    "index": "10119",
+    "house": 36,
+    "rooms": 2,
+    "price": 1900,
+    "id": 155
+  },
+  {
+    "street": "Rote-Kreuz-Str.",
+    "index": "10117",
+    "house": 28,
+    "rooms": 1,
+    "price": 600,
+    "id": 156
+  },
+  {
+    "street": "Rückerstraße",
+    "index": "10119",
+    "house": 50,
+    "rooms": 4,
+    "price": 4300,
+    "id": 157
+  },
+  {
+    "street": "Rungestraße",
+    "index": "10179",
+    "house": 6,
+    "rooms": 4,
+    "price": 1900,
+    "id": 158
+  },
+  {
+    "street": "S-Bhf Hackescher Markt",
+    "index": "10178",
+    "house": 29,
+    "rooms": 4,
+    "price": 4200,
+    "id": 159
+  },
+  {
+    "street": "Schadowstraße",
+    "index": "10117",
+    "house": 21,
+    "rooms": 3,
+    "price": 4900,
+    "id": 160
+  },
+  {
+    "street": "Scharrenstraße",
+    "index": "10178",
+    "house": 21,
+    "rooms": 1,
+    "price": 4600,
+    "id": 161
+  },
+  {
+    "street": "Schendelgasse",
+    "index": "10119",
+    "house": 13,
+    "rooms": 1,
+    "price": 2700,
+    "id": 162
+  },
+  {
+    "street": "Schicklerstraße",
+    "index": "10179",
+    "house": 32,
+    "rooms": 3,
+    "price": 700,
+    "id": 163
+  },
+  {
+    "street": "Schiffbauerdamm",
+    "index": "10117",
+    "house": 46,
+    "rooms": 3,
+    "price": 4400,
+    "id": 164
+  },
+  {
+    "street": "Schillingstraße",
+    "index": "10178",
+    "house": 22,
+    "rooms": 6,
+    "price": 2700,
+    "id": 165
+  },
+  {
+    "street": "Schlegelstraße",
+    "index": "10115",
+    "house": 31,
+    "rooms": 3,
+    "price": 2500,
+    "id": 166
+  },
+  {
+    "street": "Schmidstraße",
+    "index": "10179",
+    "house": 6,
+    "rooms": 3,
+    "price": 4600,
+    "id": 167
+  },
+  {
+    "street": "Schönholzer Straße",
+    "index": "10115",
+    "house": 21,
+    "rooms": 3,
+    "price": 4700,
+    "id": 168
+  },
+  {
+    "street": "Schröderstraße",
+    "index": "10115",
+    "house": 1,
+    "rooms": 5,
+    "price": 2100,
+    "id": 169
+  },
+  {
+    "street": "Schumannstraße",
+    "index": "10117",
+    "house": 39,
+    "rooms": 2,
+    "price": 3600,
+    "id": 170
+  },
+  {
+    "street": "Schwartzkopffstraße",
+    "index": "10115",
+    "house": 26,
+    "rooms": 6,
+    "price": 500,
+    "id": 171
+  },
+  {
+    "street": "Seydelstraße",
+    "index": "10117",
+    "house": 43,
+    "rooms": 1,
+    "price": 1400,
+    "id": 172
+  },
+  {
+    "street": "Spandauer Straße",
+    "index": "10178",
+    "house": 41,
+    "rooms": 2,
+    "price": 4100,
+    "id": 173
+  },
+  {
+    "street": "Sperlingsgasse",
+    "index": "10178",
+    "house": 22,
+    "rooms": 6,
+    "price": 200,
+    "id": 174
+  },
+  {
+    "street": "Spittelmarkt",
+    "index": "10117",
+    "house": 37,
+    "rooms": 5,
+    "price": 1700,
+    "id": 175
+  },
+  {
+    "street": "Spreeufer",
+    "index": "10178",
+    "house": 26,
+    "rooms": 4,
+    "price": 3700,
+    "id": 176
+  },
+  {
+    "street": "St. Wolfgang-Str.",
+    "index": "10178",
+    "house": 44,
+    "rooms": 5,
+    "price": 200,
+    "id": 177
+  },
+  {
+    "street": "Stralauer Straße",
+    "index": "10179",
+    "house": 4,
+    "rooms": 3,
+    "price": 4500,
+    "id": 178
+  },
+  {
+    "street": "Tieckstraße",
+    "index": "10115",
+    "house": 42,
+    "rooms": 4,
+    "price": 1100,
+    "id": 179
+  },
+  {
+    "street": "Torstraße",
+    "index": "10115",
+    "house": 35,
+    "rooms": 1,
+    "price": 2100,
+    "id": 180
+  },
+  {
+    "street": "Tucholskystraße",
+    "index": "10117",
+    "house": 3,
+    "rooms": 6,
+    "price": 3200,
+    "id": 181
+  },
+  {
+    "street": "U-Bhf Rosenthaler Platz",
+    "index": "10119",
+    "house": 42,
+    "rooms": 6,
+    "price": 1900,
+    "id": 182
+  },
+  {
+    "street": "Universitätsstraße",
+    "index": "10117",
+    "house": 1,
+    "rooms": 1,
+    "price": 3900,
+    "id": 183
+  },
+  {
+    "street": "Unterbaumstraße",
+    "index": "10117",
+    "house": 43,
+    "rooms": 5,
+    "price": 4100,
+    "id": 184
+  },
+  {
+    "street": "Veteranenstraße",
+    "index": "10119",
+    "house": 16,
+    "rooms": 3,
+    "price": 200,
+    "id": 185
+  },
+  {
+    "street": "Voltairestraße",
+    "index": "10179",
+    "house": 22,
+    "rooms": 5,
+    "price": 3000,
+    "id": 186
+  },
+  {
+    "street": "Voßstraße",
+    "index": "10117",
+    "house": 38,
+    "rooms": 3,
+    "price": 2100,
+    "id": 187
+  },
+  {
+    "street": "Wadzeckstraße",
+    "index": "10178",
+    "house": 24,
+    "rooms": 4,
+    "price": 2100,
+    "id": 188
+  },
+  {
+    "street": "Waisenstraße",
+    "index": "10179",
+    "house": 30,
+    "rooms": 4,
+    "price": 500,
+    "id": 189
+  },
+  {
+    "street": "Wassergasse",
+    "index": "10179",
+    "house": 21,
+    "rooms": 4,
+    "price": 400,
+    "id": 190
+  },
+  {
+    "street": "Weinbergsweg",
+    "index": "10119",
+    "house": 41,
+    "rooms": 4,
+    "price": 1200,
+    "id": 191
+  },
+  {
+    "street": "Weinmeisterstraße",
+    "index": "10178",
+    "house": 6,
+    "rooms": 2,
+    "price": 2800,
+    "id": 192
+  },
+  {
+    "street": "Werderscher Markt",
+    "index": "10117",
+    "house": 19,
+    "rooms": 6,
+    "price": 1900,
+    "id": 193
+  },
+  {
+    "street": "Weydingerstraße",
+    "index": "10178",
+    "house": 27,
+    "rooms": 6,
+    "price": 3400,
+    "id": 194
+  },
+  {
+    "street": "Wöhlertstraße",
+    "index": "10115",
+    "house": 1,
+    "rooms": 4,
+    "price": 1400,
+    "id": 195
+  },
+  {
+    "street": "Zehdenicker Straße",
+    "index": "10119",
+    "house": 39,
+    "rooms": 5,
+    "price": 900,
+    "id": 196
+  },
+  {
+    "street": "Zinnowitzer Straße",
+    "index": "10115",
+    "house": 47,
+    "rooms": 5,
+    "price": 0,
+    "id": 197
+  },
+  {
+    "street": "Zionskirchstraße",
+    "index": "10119",
+    "house": 20,
+    "rooms": 4,
+    "price": 3300,
+    "id": 198
+  },
+  {
+    "street": "Zolastraße",
+    "index": "10178",
+    "house": 18,
+    "rooms": 1,
+    "price": 4400,
+    "id": 199
+  }
+]
