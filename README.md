@@ -1,6 +1,6 @@
 # AppartementsApp
 
-This is a simple SPA build with AngularJS
+This is a simple SPA build with Angular
 
 ### `Demo`
 
